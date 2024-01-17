@@ -1,5 +1,3 @@
-Sure, I will try to create a read me file for the breast cancer notebook. Here is a possible content:
-
 # Breast Cancer Notebook
 
 This notebook is a project that aims to **predict the diagnosis of breast cancer** based on various features of the tumor cells. The dataset used is the **breast-cancer.csv** file, which contains **569** samples and **32** columns. The diagnosis column is the target variable, which is either **M** for malignant or **B** for benign.
